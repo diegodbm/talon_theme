@@ -34,7 +34,7 @@ limitations under the License.
         <!-- Can be true or false, true means that user pictures will be round -->
         <!-- false means that contact pictures will be square-->
         <meta-data android:name="talon_theme_round_contact_pictures"
-                   android:value="false" />
+                   android:value="true" />
 
         <!-- Needs to be a string resource that defines a color in hex, set the background color of the message screen -->
         <meta-data android:name="talon_theme_background_color"
